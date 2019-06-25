@@ -1,0 +1,7 @@
+[submodule "aws-iot-device-sdk-embedded-C"]
+	path = aws-iot-device-sdk-embedded-C
+	url = https://github.com/aws/aws-iot-device-sdk-embedded-C
+[submodule "mbedtls"]
+	path = mbedtls
+	url = https://github.com/ARMmbed/mbedtls
+	branch = mbedtls-2.16
